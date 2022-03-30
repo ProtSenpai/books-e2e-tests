@@ -1,0 +1,23 @@
+{
+  "name": "books-e2e-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProtSenpai/books-e2e-tests.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ProtSenpai/books-e2e-tests/issues"
+  },
+  "homepage": "https://github.com/ProtSenpai/books-e2e-tests#readme",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "cypress": "^9.5.2"
+  }
+}
